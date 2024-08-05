@@ -12,14 +12,14 @@
   display: flex;
 }
 
-.vs-logo {                /* all set */
+.vs-logo {                
   height: 24px;
   padding: 15px 15px;
   margin-left: 92px;
   margin-top: -5.6px;
 }
 
-.vs-name {               /* all set */
+.vs-name {               
   color: #e9eaeb;
   cursor: pointer;
   font-size: 20px;
